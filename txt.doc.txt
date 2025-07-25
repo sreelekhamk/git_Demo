@@ -1,2 +1,3 @@
 n1=int(input("enter the first number:"))
 n2=int(input("enter the secong number:"))
+n1>n2
